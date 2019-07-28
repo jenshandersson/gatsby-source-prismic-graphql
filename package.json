@@ -1,5 +1,6 @@
 {
   "private": true,
+  "version: "3.4.0",
   "name": "root",
   "workspaces": {
     "packages": [
